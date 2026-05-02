@@ -1,4 +1,4 @@
-# Audit Anomaly Detection — Kenya Public Procurement 2024
+# Audit Anomaly Detection - Kenya Public Procurement 2024
 
 ## Overview
 This project applies machine learning to detect anomalies in Kenya's 2024 public procurement data published by the Public Procurement Regulatory Authority (PPRA).
@@ -37,10 +37,10 @@ This project applies machine learning to detect anomalies in Kenya's 2024 public
 - Jupyter Notebook
 
 ## Files
-- `audit_anomaly_detection.ipynb` — full analysis notebook
-- `audit_anomaly_detection.csv` — cleaned labelled dataset
-- `audit_findings.csv` — findings with risk levels and recommended actions
-- `chart1` to `chart7` — visualizations
+- `audit_anomaly_detection.ipynb` - full analysis notebook
+- `audit_anomaly_detection.csv` - cleaned labelled dataset
+- `audit_findings.csv` - findings with risk levels and recommended actions
+- `chart1` to `chart7` - visualizations
 
 ## Author
-Donie | Audit & Controls professional transitioning to Cloud/Data/Security engineering
+Donie | Operations professional transitioning to Cloud/Data/Security engineering
