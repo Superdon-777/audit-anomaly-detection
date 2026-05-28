@@ -1,6 +1,6 @@
 # Audit Anomaly Detection - Kenya Public Procurement 2024
 
-## [Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Superdon-777/audit-anomaly-detection/blob/main/audit_anomaly_detection.ipynb)
+[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Superdon-777/audit-anomaly-detection/blob/main/audit_anomaly_detection.ipynb)
 
 ## Overview
 This project applies machine learning to detect anomalies in Kenya's 2024 public procurement data published by the Public Procurement Regulatory Authority (PPRA).
